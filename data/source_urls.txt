@@ -1,0 +1,8 @@
+
+* US zip code areas: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+
+* NYC city-level case data & zip areas: https://data.cityofnewyork.us/browse?category=Health&q=covid
+
+* Chicago zip-level case data: https://healthdata.gov/dataset/covid-19-cases-tests-and-deaths-zip-code
+
+* Illinois case data: https://observablehq.com/@chicagoreporter/historical-illinois-covid-19-zip-code-data?zipcode=62216
