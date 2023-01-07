@@ -1,2 +1,6 @@
 code/_old
 fig
+data/cities_meta.json
+data/health_cases/
+data/misc/
+data/modeling/
